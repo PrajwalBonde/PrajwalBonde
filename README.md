@@ -75,57 +75,6 @@ Jest • React Testing Library • Unit Testing • Component Testing
 
 ---
 
-## 💼 Professional Experience
-
-### 🏥 Software Developer — Spacebar IVF Solutions Pvt. Ltd.
-
-Working on healthcare and IVF management applications.
-
-**Key areas:**
-
-- ⚛️ React.js & TypeScript frontend development
-- 📝 Registration
-- 🧬 Andrology
-- 🏥 Medical History
-- 📊 Reports
-- 📈 Dashboards
-- 🔗 REST API integration
-- 🧩 Reusable UI components
-- 🧪 Frontend testing
-- ⚡ Performance optimization
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 VIDAI — AI-based EMR System for IVF Clinics
-
-An AI-driven healthcare platform designed to manage electronic
-medical records and clinical workflows.
-
-**Modules**
-
-`Registration` • `Andrology` • `Medical History` • `Reports` • `Dashboards`
-
-**Technology**
-
-`React.js` `TypeScript` `REST APIs` `Healthcare EMR`
-
----
-
-### 🏥 FertiVue — IVF Management Platform
-
-An IVF management platform supporting operational and billing workflows.
-
-**Modules**
-
-`IPD` • `IPD Billing` • `Package Billing` • `Reports`
-
-**Technology**
-
-`Frontend Development` `REST APIs` `Healthcare`
-
----
 
 ## 📊 GitHub Stats
 
