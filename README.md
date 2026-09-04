@@ -6,16 +6,31 @@
   💻 Software Developer | ⚛️ React.js | 🟦 TypeScript | 🌐 Frontend Developer
 </h3>
 
-<p align="center">
-  Building responsive, scalable and user-friendly web applications.
-</p>
+
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="YOUR_TWITTER_URL" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="Twitter" />
   </a>
 </p>
 
