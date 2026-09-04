@@ -1,52 +1,47 @@
-# 👋 Hi, I'm Prajwal Bonde
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Prajwal%20Bonde&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
 
 <h3 align="center">
-  💻 Software Developer | ⚛️ React.js | 🟦 TypeScript | 🌐 Frontend Development
+  💻 Software Developer | ⚛️ React.js | 🟦 TypeScript | 🌐 Frontend Developer
 </h3>
 
 <p align="center">
-  Building responsive, scalable and user-focused web applications.
+  Building responsive, scalable and user-friendly web applications.
 </p>
 
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-💼 Software Developer with 3+ years of experience in frontend development.
+<img align="right" alt="Coding" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-⚛️ Experienced in building production-ready applications using **React.js,
-TypeScript and Angular**.
+- 💻 Software Developer with **3+ years of experience**
+- ⚛️ Specialized in **React.js and TypeScript**
+- 🏥 Experience building **Healthcare & EMR applications**
+- 🔗 Experienced in **REST API integration**
+- 🧩 Passionate about reusable and scalable UI components
+- 🧪 Experience with **Jest & React Testing Library**
+- ⚡ Interested in frontend performance and clean architecture
+- 🚀 Always learning and improving
 
-🏥 Worked on **healthcare and IVF/EMR applications** involving clinical
-workflows and medical data.
-
-🔗 Experienced in integrating **REST APIs** with backend services.
-
-🧩 Passionate about reusable components, clean UI architecture and
-maintainable code.
-
-🧪 Interested in writing reliable frontend code using **Jest and React
-Testing Library**.
-
-⚡ Focused on performance, accessibility and responsive design.
-
----
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Frontend
+### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css" />
 </p>
 
 ### 🔌 Backend & APIs
@@ -55,15 +50,9 @@ Testing Library**.
   <img src="https://skillicons.dev/icons?i=python,dotnet" />
 </p>
 
-REST APIs • ASP.NET Core • Django
-
-### ☁️ Cloud & Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+  REST APIs • ASP.NET Core • Django
 </p>
-
-Jira • Agile/Scrum • Code Reviews
 
 ### 🧪 Testing
 
@@ -71,54 +60,56 @@ Jira • Agile/Scrum • Code Reviews
   <img src="https://skillicons.dev/icons?i=jest" />
 </p>
 
-Jest • React Testing Library • Unit Testing • Component Testing
+<p>
+  Jest • React Testing Library • Unit Testing • Component Testing
+</p>
 
----
+### ☁️ Tools & Cloud
 
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode" />
+</p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  Jira • Agile/Scrum • Code Reviews • AWS S3
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
 
 ---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+ ---
 
 ## 🎯 Currently
 
-🔹 Improving my React.js and TypeScript skills  
-🔹 Building reusable and scalable frontend components  
-🔹 Learning advanced frontend architecture  
-🔹 Improving performance and code quality  
-🔹 Exploring modern web development practices
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Prajwal%20Bonde-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+```text
+⚛️ React.js
+🟦 TypeScript
+🧩 Reusable Components
+⚡ Performance Optimization
+🧪 Frontend Testing
+🏥 Healthcare Applications
